@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <main className="main_content">
-          <h2>Searchers</h2>
+          <h2>Searchees</h2>
           <div className="search_bar">
             <input type="text" 
             placeholder='Enter name to search..'
